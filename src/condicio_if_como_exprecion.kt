@@ -29,7 +29,7 @@ fun main () {
     println("ingrese un valor")
     val valoer = readln().toInt()
     val digi = if (valoer>9) {
-        println("tu valor tiene 2 digitos")} else {
+        println("tu valor tiene 2 digit¡s")} else {
             println("tu valor tiene 1 digito ")
 
         }

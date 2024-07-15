@@ -1,4 +1,6 @@
-fun main() {
+
+
+
     /*do {
         println("ingrese un valor comprendido entre 0 y 999 ")
         val valor= readln().toInt()
@@ -35,6 +37,7 @@ println("el promedio de los valores ingresados es de $promedio")
 }else{print("no se ingresaron valores correctos")}
 
  */
+    /*
 //problema 3
     var cantidad_inferior =0 //por debajo de 9.8
     var cantidad_superior=0
@@ -49,11 +52,11 @@ println("el promedio de los valores ingresados es de $promedio")
             if (peso >= 9.8)
                 cantidad_adecuada++
         else
-            cantidad_inferior++
+            cantidad_inferior++}
 
 
 
-    }while (peso!=0.0)
+    /*}while (peso!=0.0)
     println("piezas aptas: $cantidad_adecuada")
     println("piezas de peso superior: $cantidad_superior")
     println("piezas de peso inferior: $cantidad_inferior")
@@ -62,10 +65,17 @@ println("el promedio de los valores ingresados es de $promedio")
 
 
 
+     */
 
 
 
 
 
 
-}
+
+
+
+
+
+
+     */

@@ -1,3 +1,4 @@
+
 package Estrucura_repetitiva_for
 
 fun main(){
@@ -11,3 +12,4 @@ println("La suma de los valores ingresados es $suma")
     val promedio = suma / 10
     println("Su promedio es $promedio")
 }
+

@@ -1,3 +1,4 @@
+
 package Estructura_condicional_when
 fun main(parametro: Array<String>) {
     var total = 0

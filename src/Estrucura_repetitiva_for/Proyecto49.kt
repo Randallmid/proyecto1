@@ -1,3 +1,4 @@
+
 package Estrucura_repetitiva_for
 
 fun main() {
@@ -14,5 +15,4 @@ fun main() {
     }
     println("Cantidad de alomnos con notas mayores o" + "iguales a 7: $aprobados")
     println("Cantidad de alumnos con notas menores a " + "7: $reprobados")
-
 }

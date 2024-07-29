@@ -1,3 +1,4 @@
+
 package Estructura_condicional_when_argumento
 fun main() {
     print("Ingrese un valor entero entre 1 y 5: ")
@@ -10,4 +11,5 @@ fun main() {
         5 -> print("Cinco")
         else -> print("Valor fuera de rango")
     }
+
 }

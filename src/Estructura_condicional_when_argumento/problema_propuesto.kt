@@ -1,3 +1,4 @@
+
 package Estructura_condicional_when_argumento
 fun main() {
     var hijo0 = 0
@@ -17,6 +18,4 @@ fun main() {
     println("La cantidad de familias que tienen 0 hijos son: $hijo0")
     println("La cantidad de familias que tienen 1 hijo son: $hijo1")
     println("La cantidad de familias que tienen 2 hijos son: $hijo2")
-    println("La cantidad de familias que tienen mas de 2 hijos son: $mas")
-
-}
+    println("La cantidad de familias que tienen mas de 2 hijos son: $mas") }

@@ -1,3 +1,4 @@
+
 package Funciones_con_retorno
 
 fun retornarSuperficie(ladop: Int): Int {
@@ -10,4 +11,5 @@ fun main() {
     val la = readln().toInt()
     val superficie = retornarSuperficie(la)
     println("La superficie del cuadrado es de : $superficie")
+
 }

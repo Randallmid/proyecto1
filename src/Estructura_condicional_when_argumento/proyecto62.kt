@@ -1,3 +1,4 @@
+
 package Estructura_condicional_when_argumento
 fun main() {
     print("Ingrese un valor entero positivo comprendido emtre 1 y 99999: ")
@@ -9,5 +10,4 @@ fun main() {
         in 1000..9999 -> print("Tiene 4 dígito")
         in 10000..99999 -> print("Tiene 5 dígito")
         else -> print("No se encurntra comprendido en el rango indicado")
-    }
-}
+    }}

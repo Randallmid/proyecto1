@@ -1,3 +1,4 @@
+
 package Concepto_funciones
 fun valores(){
     print("Ingrese un primer valor: ")
@@ -12,9 +13,4 @@ fun valores(){
         else -> println("El número menor es: $valor3")
     }
 
-}
-
-fun main() {
-    valores()
-    valores()
 }

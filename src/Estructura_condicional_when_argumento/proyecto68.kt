@@ -1,3 +1,4 @@
+
 package Estructura_condicional_when_argumento
 fun main() {
     var cant1= 0

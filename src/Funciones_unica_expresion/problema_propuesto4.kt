@@ -1,4 +1,4 @@
-package Funciones_unica_expresion
+/*ones_unica_expresion
 
 fun largo(nombre: String) = nombre.length
 
@@ -14,4 +14,7 @@ fun main() {
             print("$nombre1 es mas largo")
         else
             print("$nombre2 es mas largo")
-}
+>>>>>>> 34e7b5e905c0cc972347862b3d036faff310d7a8
+
+
+ */

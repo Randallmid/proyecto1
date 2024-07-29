@@ -1,3 +1,4 @@
+
 package Estructura_condicional_when
 fun main() {
     print("Ingrese coordenada x del punto: ")
@@ -11,5 +12,4 @@ fun main() {
         x > 0 && y < 0 -> println("Cuarto cuadrante")
         else -> println("El punto se encuentra en un eje")
     }
-
-}
+    }

@@ -1,3 +1,4 @@
+
 package Funciones_unica_expresion
 
 fun retonarSuperficie(lado: Int) = lado * lado

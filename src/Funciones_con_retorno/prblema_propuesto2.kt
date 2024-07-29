@@ -1,3 +1,4 @@
+
 package Funciones_con_retorno
 
 fun perimetroCuadrado(ladop: Int): Int {
@@ -10,4 +11,5 @@ fun main() {
     val la = readln().toInt()
     println("el perimetro del cuadrado es: " +
             "${perimetroCuadrado(la)}")
+
 }

@@ -1,3 +1,4 @@
+
 package Estructura_condicional_when
 
 fun main() {
@@ -31,5 +32,4 @@ fun main() {
     } 
     println("La cantidad de triangulos equilateros es : $equilatero")
     println("La cantidad de triangulos isosceles es : $isosceles")
-    println("La cantidad de triangulos escaleno es : $escaleno")
-}
+    println("La cantidad de triangulos escaleno es : $escaleno")}

@@ -1,3 +1,4 @@
+
 package Funciones_unica_expresion
 
 fun calcularSuperficie(lado1: Int, lado2: Int) = lado1 * lado2
@@ -19,4 +20,5 @@ fun main() {
             println("ambos rectángulos tienen la misma superficie")
         else
             println("El rectángulo con los lados $la1 y $la2 tiene una superficie mayor")
+
 }

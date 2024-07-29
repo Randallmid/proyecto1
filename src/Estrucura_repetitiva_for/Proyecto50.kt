@@ -1,3 +1,4 @@
+
 package Estrucura_repetitiva_for
 
 fun main() {
@@ -15,7 +16,6 @@ fun main() {
     println("Cantidad de múltiplos de 3: $mult3")
     println("Cantidad de múltiplos de 5: $mult5")
     println("Cantidad de múltiplos de 9: $mult9")
-
 
 
 }

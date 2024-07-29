@@ -1,3 +1,4 @@
+
 package Concepto_funciones
 fun cuadrado(){
     print("Ingrese un numero entero: ")
@@ -18,4 +19,5 @@ fun producto(){
 fun main() {
     cuadrado()
     producto()
+
 }

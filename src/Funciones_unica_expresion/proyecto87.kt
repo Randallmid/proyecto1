@@ -1,3 +1,4 @@
+
 package Funciones_unica_expresion
 
 fun convertirCastelano(valor: Int) = when (valor){
@@ -12,4 +13,5 @@ fun convertirCastelano(valor: Int) = when (valor){
 fun main() {
     for(i in 1..6)
         println(convertirCastelano(i))
+
 }

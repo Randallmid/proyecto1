@@ -1,3 +1,4 @@
+
 package Funciones_unica_expresion
 
 fun promedio(val1: Int, val2: Int, val3: Int) = (val1 + val2 + val3)/3
@@ -11,4 +12,5 @@ fun main() {
     val num3 = readln().toInt()
     println("El promedio de estos números es: " +
     "${promedio(num1, num2, num3)}")
+
 }

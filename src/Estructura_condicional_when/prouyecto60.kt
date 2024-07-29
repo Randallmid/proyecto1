@@ -1,3 +1,4 @@
+
 package Estructura_condicional_when
 fun main(parametros: Array<String>) {
 print("Ingrese primer nota: ")

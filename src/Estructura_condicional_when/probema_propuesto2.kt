@@ -1,3 +1,4 @@
+
 package Estructura_condicional_when
 fun main() {
     var mayor = 0
@@ -15,5 +16,4 @@ fun main() {
 
         }
     }
-    println("El valor acumulado de los valores mayores de cada lista de 3 números es: $mayor")
-}
+    println("El valor acumulado de los valores mayores de cada lista de 3 números es: $mayor")}

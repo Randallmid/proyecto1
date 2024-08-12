@@ -1,7 +1,7 @@
 package arreglos
-
+/*
 fun main() {
-    val arreglo = IntArray(10)
+    +val arreglo = IntArray(10)
     for(i in arreglo.indices) {
         print("Ingrese elemento:")
         arreglo[i] = readln().toInt()
@@ -10,3 +10,5 @@ fun main() {
         println(elemento)
 
 }
+
+ */
